@@ -17,7 +17,6 @@ It can be added as a Global Subheader as well
 
 wrapper-footer.html code should be added under Designs -> Wrappers 
 
-Screen shot:
-
+#Screen shot
 
 ![alt text](https://github.com/jun488/idx-code-snippits/blob/master/sample-images/custom-404-details.png?raw=true "details page custom 404")
