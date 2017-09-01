@@ -18,4 +18,6 @@ It can be added as a Global Subheader as well
 wrapper-footer.html code should be added under Designs -> Wrappers 
 
 Screen shot:
+
+
 ![alt text](https://github.com/antonioortegajr/idx-code-snippits/blob/master/sample-images/reslutsMapSieBySide.png?raw=true "results and map side by side")
