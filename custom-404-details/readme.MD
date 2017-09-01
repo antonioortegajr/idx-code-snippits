@@ -1,6 +1,6 @@
 # Custom 404 details pages
 
-These scripst allows you to add custom 404 message for Details Pages.
+These scripts allow you to add custom 404 message for Details Pages.
 
 # Requirements
 
