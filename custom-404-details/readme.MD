@@ -1,0 +1,21 @@
+# Custom 404 details pages
+
+These scripst allos you to add custom 404 message for Details Pages.
+
+# Requirements
+
+jQuery on IDX Broker pages, which is included by default with "idx" variable. Code can be easily changed not to use jQuery if needed.
+
+# Subehader
+
+Subheader is easier to apply, but it has a noticeable delay before clients see the custom message
+
+subehader.html code should be added under Designs -> Subheaders -> Pages -> Details (Turn WYSIWYG editor off)
+It can be added as a Global Subheader as well
+
+# Wrapper Footer 
+
+wrapper-footer.html code should be added under Designs -> Wrappers 
+
+Screen shot:
+![alt text](https://github.com/antonioortegajr/idx-code-snippits/blob/master/sample-images/reslutsMapSieBySide.png?raw=true "results and map side by side")
