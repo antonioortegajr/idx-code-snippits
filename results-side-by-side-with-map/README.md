@@ -11,5 +11,4 @@ This meant as a starter and doesn't respond fully.
 Feel free to adjust and pulls welcome.
 
 Screen shot:
-![alt text](https://github.com/antonioortegajr/idx-code-snippits/blob/master/sample-images/reslutsMapSieBySide.png?raw=true "results and map side by side")
-
+![alt text](https://github.com/antonioortegajr/idx-code-snippits/blob/master/sample-images/resultsMapSideBySide.png?raw=true "results and map side by side")
