@@ -1,11 +1,10 @@
 # Pure JS approach
 
-Add the js in this folder to your wrapper. In footer for best results.
+Add the js in this folder to your wrapper in footer for best results to allow the dom to load the selector.
 
 ## What it does
 
 * Check url string for '/idx/' so it doesn't run on non IDX pages.
-* look for the small tag with text
 * Rewrite the H1 tag
 
-The rewrite can be changed to any message or select any tag, even body to rewrite it all.
+The rewrite can be changed to any message or any tag, even body to rewrite it all.
