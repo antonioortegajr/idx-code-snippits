@@ -10,7 +10,7 @@ jQuery on IDX Broker pages, which is included by default with "idx" variable. Co
 
 Tested with all recent details templates as of 9/1/2017
 
-# Subehader
+# Subeheader
 
 Subheader is easier to apply, but it has a noticeable delay before clients see the custom message
 
